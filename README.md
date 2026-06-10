@@ -27,7 +27,7 @@
 
 | Beranda | Beranda | Pencarian Kosong | Pencarian Hasil | Riwayat | Pengaturan |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="docs/1.jpeg" width="150"/> | <img src="docs/2.jpeg" width="150"/> | <img src="docs/3.jpeg" width="150"/> | <img src="docs/4.jpeg" width="150"/> | <img src="docs/5.jpeg" width="150"/> | <img src="docs/6.jpeg" width="150"/> |
+| <a href="https://raw.githubusercontent.com/SerpentSecHunter2006/AnimeStreamOfflineAPK/main/docs/1.jpeg"><img src="docs/1.jpeg" width="150"/></a> | <a href="https://raw.githubusercontent.com/SerpentSecHunter2006/AnimeStreamOfflineAPK/main/docs/2.jpeg"><img src="docs/2.jpeg" width="150"/></a> | <a href="https://raw.githubusercontent.com/SerpentSecHunter2006/AnimeStreamOfflineAPK/main/docs/3.jpeg"><img src="docs/3.jpeg" width="150"/></a> | <a href="https://raw.githubusercontent.com/SerpentSecHunter2006/AnimeStreamOfflineAPK/main/docs/4.jpeg"><img src="docs/4.jpeg" width="150"/></a> | <a href="https://raw.githubusercontent.com/SerpentSecHunter2006/AnimeStreamOfflineAPK/main/docs/5.jpeg"><img src="docs/5.jpeg" width="150"/></a> | <a href="https://raw.githubusercontent.com/SerpentSecHunter2006/AnimeStreamOfflineAPK/main/docs/6.jpeg"><img src="docs/6.jpeg" width="150"/></a> |
 
 ## 🛠️ Teknologi yang Digunakan
 
