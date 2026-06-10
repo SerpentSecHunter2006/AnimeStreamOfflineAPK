@@ -25,9 +25,9 @@
 
 ## 📸 Tangkapan Layar (Screenshots)
 
-| Beranda | Pencarian | Hasil Cari | Riwayat | Pengaturan |
-| :---: | :---: | :---: | :---: | :---: |
-| <img src="docs/1.jpeg" width="180"/> | <img src="docs/2.jpeg" width="180"/> | <img src="docs/3.jpeg" width="180"/> | <img src="docs/5.jpeg" width="180"/> | <img src="docs/6.jpeg" width="180"/> |
+| Beranda | Beranda | Pencarian Kosong | Pencarian Hasil | Riwayat | Pengaturan |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| <img src="docs/1.jpeg" width="150"/> | <img src="docs/2.jpeg" width="150"/> | <img src="docs/3.jpeg" width="150"/> | <img src="docs/4.jpeg" width="150"/> | <img src="docs/5.jpeg" width="150"/> | <img src="docs/6.jpeg" width="150"/> |
 
 ## 🛠️ Teknologi yang Digunakan
 
