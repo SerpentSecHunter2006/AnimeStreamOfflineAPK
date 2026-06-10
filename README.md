@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="120" alt="Serpent Anime Logo">
+  <img src="https://raw.githubusercontent.com/SerpentSecHunter2006/AnimeStreamOfflineAPK/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" width="120" alt="Serpent Anime Logo">
   
   # Serpent AnimeStream
 
@@ -25,11 +25,9 @@
 
 ## 📸 Tangkapan Layar (Screenshots)
 
-*(Tambahkan screenshot antarmuka aplikasi di sini untuk menarik perhatian)*
-
-| Beranda | Pemutar Video | Pencarian |
-| :---: | :---: | :---: |
-| <img src="https://via.placeholder.com/250x500.png?text=Beranda" width="200"/> | <img src="https://via.placeholder.com/250x500.png?text=Video+Player" width="200"/> | <img src="https://via.placeholder.com/250x500.png?text=Search" width="200"/> |
+| Beranda | Pencarian | Hasil Cari | Riwayat | Pengaturan |
+| :---: | :---: | :---: | :---: | :---: |
+| <img src="docs/1.jpeg" width="180"/> | <img src="docs/2.jpeg" width="180"/> | <img src="docs/3.jpeg" width="180"/> | <img src="docs/4.jpeg" width="180"/> | <img src="docs/5.jpeg" width="180"/> |
 
 ## 🛠️ Teknologi yang Digunakan
 
